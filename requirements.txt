@@ -1,0 +1,12 @@
+python-dotenv
+groq
+llama-index
+streamlit
+nltk
+langchain-groq
+langchain_community
+requests
+beautifulsoup4
+llama-index-llm-langchain
+sentence-transformers
+llama_index-embedding-huggingface
